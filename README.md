@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm **Mindaugas**, a passionate developer who love
 - Node.js
 - TypeScript
 - PostgreSQL
-- Serverless architecture
-
+- Various Frontend shenanigans 👌
 ### Socials
 
 <div id="badges">
