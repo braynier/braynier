@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm **Mindaugas**, a passionate developer who love
 
 ## 🌱 What I’m currently learning:
 - Node.js
+- TypeScript
 - PostgreSQL
 - Serverless architecture
 
